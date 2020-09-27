@@ -1,0 +1,9 @@
+----------REGLAS----------
+El memorama consta de un tablero de 6x6 columnas
+Las casillas estan enumeradas del 0 al 5
+Tanto el renglon como la carta:
+Deben ser numeros
+Deben estar entre 0 y 5
+Si acertaste a una carta el turno es tuyo otra vez
+En cualquier pregunta de si o no "s" se tomara en cuenta como si y otro caracter como no
+DIVIERTETE

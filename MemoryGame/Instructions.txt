@@ -1,0 +1,9 @@
+----------RULES----------
+The memory game consists of a 6x6 column board
+The boxes are numbered from 0 to 5
+Both the line and the letter:
+Must be numbers
+They must be between 0 and 5
+If you hit a card, the turn is yours again
+In any question of yes or no "yes" will be taken into account as yes and another character as no
+HAVE FUN

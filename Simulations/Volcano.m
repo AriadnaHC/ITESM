@@ -1,6 +1,6 @@
 function[]=Proyectiles(v0min,v0max,umin,umax,k,n)
-    %ProgramaciÛn de trayectorias de proyectiles
-    %DeclaraciÛn de variables
+    %Programaci√≥n de trayectorias de proyectiles
+    %Declaraci√≥n de variables
     v0=randi([v0min v0max],1,n);
     v=randi([0 360],1,n);
     u=randi([umin umax],1,n);
@@ -8,7 +8,7 @@ function[]=Proyectiles(v0min,v0max,umin,umax,k,n)
     g=9.81;
     dt=0.5;
     
-    %Inicializar gr·fico
+    %Inicializar gr√°fico
     figure
     grid on
     hold on
